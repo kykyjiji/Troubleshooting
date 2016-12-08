@@ -40,6 +40,16 @@ optional arguments:
 1. `sudo python -m toriptables2 -h`
 
 ```
+usage: toriptables2.py [-h] [-l] [-f]
+
+Tor Iptables script for loading and unloading iptables rules
+
+optional arguments:
+  -h, --help   show this help message and exit
+  -l, --load   This option will load tor iptables rules
+  -f, --flush  This option flushes the iptables rules to default
+```
+```
 ┌─[mint@mint]─[~]
 └──╼1 (00:03:16) >> sudo python -m toriptables2 -l
  [+] Anonymizer status [ON]
