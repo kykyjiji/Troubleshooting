@@ -14,6 +14,16 @@
 
 1. `sudo toriptables2.py -h`
 
+```
+usage: toriptables2.py [-h] [-l] [-f]
+
+Tor Iptables script for loading and unloading iptables rules
+
+optional arguments:
+  -h, --help   show this help message and exit
+  -l, --load   This option will load tor iptables rules
+  -f, --flush  This option flushes the iptables rules to default
+```
 
 ### Executing toriptables2 module as a script:
 
@@ -28,3 +38,14 @@
 1. `cd ~`
 
 1. `sudo python -m toriptables2 -h`
+
+```
+usage: toriptables2.py [-h] [-l] [-f]
+
+Tor Iptables script for loading and unloading iptables rules
+
+optional arguments:
+  -h, --help   show this help message and exit
+  -l, --load   This option will load tor iptables rules
+  -f, --flush  This option flushes the iptables rules to default
+```
