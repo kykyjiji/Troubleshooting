@@ -12,7 +12,7 @@ The new "feature" is _enabled_ by default to block .onion addresses.
 
 `about:config`
 
-Search blockDotOnion
+Search: blockDotOnion
 
 **Change from:**
 
