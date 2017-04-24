@@ -16,8 +16,8 @@ Search: blockDotOnion
 
 **Change from: true**
 
-`network.dns.blockDotOnion user  bolean  true`
+`network.dns.blockDotOnion user set   bolean  true`
 
 **[Change to: false](https://drive.google.com/open?id=0B79r4wTVj-CZSkZieEVCWUtKRVE)**
 
-`network.dns.blockDotOnion user  boolean false`
+`network.dns.blockDotOnion user set  boolean false`
