@@ -14,10 +14,10 @@ The new "feature" is _enabled_ by default to block .onion addresses.
 
 Search: blockDotOnion
 
-**Change from:**
+**Change from: true**
 
 `network.dns.blockDotOnion user  bolean  true`
 
-**Change to:**
+**Change to: false**
 
 `network.dns.blockDotOnion user  boolean false`
