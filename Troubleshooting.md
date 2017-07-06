@@ -1,3 +1,6 @@
+### [Excellent Firefox Privacy Add-ons](https://privacytoolsio.github.io/privacytools.io/#addons) ###
+***
+
 **Firefox Release  45.0 March 8, 2016:**
 
 Introduce a new preference (network.dns.blockDotOnion) to allow blocking .onion at the DNS level.
