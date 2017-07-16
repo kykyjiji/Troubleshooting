@@ -41,4 +41,4 @@ A. Not at this time.  Hopefully in the future the kali gods will add toriptables
 
 Q. I was looking for something that's easy to install and give anonymity and work on Windows.
 
-A. Installing the Tor browser bundle probably would be the path of least resistance.
+A. Installing the [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) probably would be the path of least resistance.
