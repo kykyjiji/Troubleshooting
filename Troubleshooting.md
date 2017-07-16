@@ -37,7 +37,7 @@ sudo apt-get install mate-notification-daemon
 ### Frequently Asked Questions:
 Q. Is there an easier way to install toriptables2 without all the command-line hacking?
 
-A. Not at this time.  Hopefully in the future the kali gods will add toriptables2 to [Kali Linux repo](https://bugs.kali.org/view.php?id=3983).
+A. Not at this time.  Hopefully in the future the Kali Gods will add toriptables2 to [Kali Linux repo](https://bugs.kali.org/view.php?id=3983).
 
 Q. I was looking for something that's easy to install and give anonymity and work on Windows.
 
@@ -45,6 +45,6 @@ A. Installing the [Tor Browser](https://www.torproject.org/projects/torbrowser.h
 
 Q. I see it's written in Python.  Will it work on Windows.
 
-A1. Not at this time.  Iptables is not native to Windows.
+A.(1) Not at this time.  Iptables is not native to Windows.
 
-A2. At the rate Microsoft is making Windows more Linux like, maybe in the future...
+A.(2) At the rate Microsoft is making Windows more Linux like, maybe in the future...
