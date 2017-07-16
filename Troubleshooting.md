@@ -32,3 +32,4 @@ Search: blockDotOnion
 * [Notification error](https://wiki.archlinux.org/index.php/Desktop_notifications)
 ```bash
 sudo apt-get install mate-notification-daemon 
+```
