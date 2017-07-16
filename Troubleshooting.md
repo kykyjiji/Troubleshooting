@@ -33,3 +33,10 @@ Search: blockDotOnion
 ```bash
 sudo apt-get install mate-notification-daemon 
 ```
+***
+### Frequently Asked Questions:
+Q. Is there an easier way to install toriptables2 without all the command-line hacking?
+A. Not at this time.  Hopefully in the future the kali gods will add toriptables2 to [Kali Linux repo](https://bugs.kali.org/view.php?id=3983).
+
+Q. I was looking for something that's easy to install and give anonymity and work on Windows.
+A. Installing the Tor browser bundle probably would be the path of least resistance.
