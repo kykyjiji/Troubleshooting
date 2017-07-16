@@ -55,4 +55,4 @@ A. Well, I'll leave you with [this](http://lmgtfy.com/?q=Is+Tor+Really+Anonymous
 
 Q. Tor is not what I was looking for.  Can you suggest a _free_ VPN service.
 
-A. Here is a [_free_](https://www.youtube.com/watch?v=_IbPcyU_cpU) VPN service.  _Please_ read the disclaimers before using. 
+A. Here is a [_free_](https://www.youtube.com/watch?v=_IbPcyU_cpU) VPN service.  _Please_ read the disclaimers before using. Disclaimer: By my suggestion, I'm not in any way advocating the use of any _free_ VPN service.
