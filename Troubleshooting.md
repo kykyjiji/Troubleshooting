@@ -24,3 +24,8 @@ Search: blockDotOnion
 **[Change to: false](https://drive.google.com/open?id=0B79r4wTVj-CZSkZieEVCWUtKRVE)**
 
 `network.dns.blockDotOnion user set  boolean false`
+
+
+### Distro Specific Fix:
+* [Parrot Security OS 3.1.1 Anonsurf](https://www.inforge.net/xi/threads/parrot-security-os-3-1-1-anonsurf-fix-tor-by-vap0r.457379/) *Note: Translation needed*
+* [Arch Linux](https://github.com/ruped24/toriptables2/pull/5/files) 
