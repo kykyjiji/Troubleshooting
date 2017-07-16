@@ -49,6 +49,10 @@ Q. I see it's written in Python.  Will it work on Windows.
 A. Not at this time.  Iptables is not native to Windows.
   At the rate Microsoft is making [Windows more Linux like](https://msdn.microsoft.com/en-us/commandline/wsl/faq), maybe in the future...
 
+Q. Is Tor Really Anonymous?
+
+A. Well, I'll leave you with [this](http://lmgtfy.com/?q=Is+Tor+Really+Anonymous).
+
 Q. Tor is not what I was looking for.  Can you suggest a _free_ VPN service.
 
 A. Here is a [_free_](https://www.youtube.com/watch?v=_IbPcyU_cpU) VPN service.  _Please_ read the disclaimers before using. 
