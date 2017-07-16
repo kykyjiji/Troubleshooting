@@ -28,4 +28,8 @@ Search: blockDotOnion
 
 ### Distro Specific Fix:
 * [Parrot Security OS 3.1.1 Anonsurf](https://www.inforge.net/xi/threads/parrot-security-os-3-1-1-anonsurf-fix-tor-by-vap0r.457379/) *Note: Translation needed*
-* [Arch Linux](https://github.com/ruped24/toriptables2/pull/5/files) 
+* [Arch Linux](https://github.com/ruped24/toriptables2/pull/5/files)
+* [Notification error](https://wiki.archlinux.org/index.php/Desktop_notifications)
+```
+#!bash
+sudo apt-get install mate-notification-daemon 
