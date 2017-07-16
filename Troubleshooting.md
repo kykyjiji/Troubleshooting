@@ -42,3 +42,9 @@ A. Not at this time.  Hopefully in the future the kali gods will add toriptables
 Q. I was looking for something that's easy to install and give anonymity and work on Windows.
 
 A. Installing the [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) probably would be the path of least resistance.
+
+Q. I see it's written in Python.  Will it work on Windows.
+
+A1. Not at this time.  Iptables is not native to Windows.
+
+A2. At the rate Microsoft is making Windows more Linux like, maybe in the future...
