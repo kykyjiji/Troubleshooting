@@ -11,7 +11,7 @@ The new "feature" is _enabled_ by default to block .onion addresses.
 
 "Server not found" "Firefox can’t find the server at abcxyz.onion" and "problems loading page"
 
-**The Fix:**
+**The Browser Fix:**
 
 `about:config`
 
