@@ -50,6 +50,6 @@ A.(1) Not at this time.  Iptables is not native to Windows.
 
 A.(2) At the rate Microsoft is making [Windows more Linux like](https://msdn.microsoft.com/en-us/commandline/wsl/faq), maybe in the future...
 
-Q. Tor is not what I was looking for.  Can you suggest a free VPN service.
+Q. Tor is not what I was looking for.  Can you suggest a _free_ VPN service.
 
 A. Here is a [_free_](https://www.youtube.com/watch?v=_IbPcyU_cpU) VPN service.  Please read the disclaimers before using. 
