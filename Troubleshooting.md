@@ -51,4 +51,4 @@ A. Not at this time.  Iptables is not native to Windows.
 
 Q. Tor is not what I was looking for.  Can you suggest a _free_ VPN service.
 
-A. Here is a [_free_](https://www.youtube.com/watch?v=_IbPcyU_cpU) VPN service.  Please read the disclaimers before using. 
+A. Here is a [_free_](https://www.youtube.com/watch?v=_IbPcyU_cpU) VPN service.  _Please_ read the disclaimers before using. 
