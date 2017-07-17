@@ -40,7 +40,7 @@ Q. Is there an easier way to install toriptables2 without all the command-line h
 
 A. Not at this time.  Hopefully in the future the Kali Gods will add **toriptables2** to [Kali Linux repo](https://bugs.kali.org/view.php?id=3983).
 
-Q. I was looking for something that's easy to install and that will give anonymity and work on Windows.
+Q. I was looking for something that's easy to install that will give anonymity and work on Windows.
 
 A. Installing the [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) probably would be the path of least resistance.
 
