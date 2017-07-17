@@ -47,7 +47,7 @@ A. Installing the [Tor Browser](https://www.torproject.org/projects/torbrowser.h
 Q. I see it's written in Python.  Will it work on Windows.
 
 A. Not at this time.  Iptables is not native to Windows.
-  At the rate Microsoft is making [Windows more Linux like](https://msdn.microsoft.com/en-us/commandline/wsl/faq), maybe in the near future...
+   At the rate Microsoft is making [Windows more Linux like](https://msdn.microsoft.com/en-us/commandline/wsl/faq), maybe in the near future...
 
 Q. Is Tor Really Anonymous?
 
