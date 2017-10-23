@@ -1,4 +1,4 @@
-## Installation options after downloading or cloning
+## [Installation options after downloading or cloning](https://www.youtube.com/watch?v=3mEpnzY5ZZo)
 
 ### Executing toriptables2.py as a standalone executable:
 
