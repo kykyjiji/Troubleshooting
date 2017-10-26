@@ -1,4 +1,4 @@
-## [Installation options after downloading or cloning](https://www.youtube.com/watch?v=3mEpnzY5ZZo)
+## [Installation options after downloading or cloning](https://drive.google.com/open?id=0B79r4wTVj-CZNndrWVNlUktxeEk)
 
 ### Executing toriptables2.py as a standalone executable:
 
