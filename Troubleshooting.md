@@ -56,7 +56,7 @@ A. Not at this time.  Iptables is not native to Windows.
 
 Q. Why do I get an IPv6 Address and [whatismyipaddress](https://whatismyipaddress.com/) shows [my real location](https://www.internetsociety.org/resources/deploy360/2014/privacy-extensions-for-ipv6-slaac/)?
 
-A. [**Disable IPv6**](http://ask.xmodulo.com/disable-ipv6-linux.html) at the OS level.
+A. [**Disable IPv6**](https://wiki.archlinux.org/index.php/IPv6#Disable_functionality) at the OS level.
  
 1.  sysctl -w net.ipv6.conf.default.disable_ipv6=1
 
