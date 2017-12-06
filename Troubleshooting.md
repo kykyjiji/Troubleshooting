@@ -54,7 +54,7 @@ A. Not at this time.  Iptables is not native to Windows.
 
 Q. Why do I get an IPv6 Address and [whatismyipaddress](https://whatismyipaddress.com/) shows my real location?
 
-A. [Disable IPv6](https://wiki.debian.org/DebianIPv6#How_to_turn_off_IPv6) at the OS level.
+A. [Disable IPv6](https://support.nordvpn.com/#/Connectivity/Linux/1047409212/How-to-disable-IPv6-on-Linux.htm) at the OS level.
  
 1.  sysctl -w net.ipv6.conf.default.disable_ipv6=1
 
