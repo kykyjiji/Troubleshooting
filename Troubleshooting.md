@@ -26,7 +26,7 @@ Search: blockDotOnion
 `network.dns.blockDotOnion user set  boolean false`
 
 
-[**Disable IPv6 Privacy Extension in Linux**](https://wiki.archlinux.org/index.php/IPv6#Privacy_extensions)
+[**Enable IPv6 Privacy Extension in Linux**](https://wiki.archlinux.org/index.php/IPv6#Privacy_extensions)
 
 ### Distro Specific Fix:
 * [Arch Linux](https://github.com/ruped24/toriptables2/pull/5/files)
