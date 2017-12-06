@@ -52,7 +52,7 @@ Q. I see it's written in Python.  Will it work on Windows?
 A. Not at this time.  Iptables is not native to Windows.
    At the rate Microsoft is making [Windows more Linux like](https://msdn.microsoft.com/en-us/commandline/wsl/faq), maybe in the near future...
 
-Q. Why do I get an IPv6 Address and [whatismyipaddress](https://whatismyipaddress.com/) shows my real location?
+Q. Why do I get an IPv6 Address and [whatismyipaddress](https://whatismyipaddress.com/) shows [my real location](https://www.internetsociety.org/resources/deploy360/2014/privacy-extensions-for-ipv6-slaac/)?
 
 A. [Disable IPv6](https://support.nordvpn.com/#/Connectivity/Linux/1047409212/How-to-disable-IPv6-on-Linux.htm) at the OS level.
  
