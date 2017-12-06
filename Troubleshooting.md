@@ -49,6 +49,14 @@ Q. I see it's written in Python.  Will it work on Windows?
 A. Not at this time.  Iptables is not native to Windows.
    At the rate Microsoft is making [Windows more Linux like](https://msdn.microsoft.com/en-us/commandline/wsl/faq), maybe in the near future...
 
+Q. Why do I get an IPv6 Address and whatismyipaddress shows my real location?
+
+A. Disable IPv6 at the OS level.
+ 
+1.  sysctl -w net.ipv6.conf.default.disable_ipv6=1
+
+1.  sysctl -w net.ipv6.conf.all.disable_ipv6=1
+
 Q. Is Tor Really Anonymous?
 
 A. Well, I'll leave you with [this](http://lmgtfy.com/?q=Is+Tor+Really+Anonymous).
