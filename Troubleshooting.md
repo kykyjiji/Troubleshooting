@@ -28,6 +28,7 @@ Search: blockDotOnion
 
 [**Enable IPv6 Privacy Extension in Linux**](https://wiki.archlinux.org/index.php/IPv6#Privacy_extensions)
 
+***
 ### Distro Specific Fix:
 * [Arch Linux](https://github.com/ruped24/toriptables2/pull/5/files)
 ```bash
