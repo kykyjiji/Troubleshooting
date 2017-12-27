@@ -31,7 +31,7 @@ Search: blockDotOnion
 ***
 ### Distro Specific Fix:
 
-| Distro | Tor User ID |
+| Distro | [Tor User ID](https://github.com/ruped24/toriptables2/blob/master/toriptables2.py#L31) |
 | --- | --- |
 | [Arch](https://wiki.archlinux.org/index.php/tor#Transparent_Torification)  | tor |
 | Fedora | toranon  |
