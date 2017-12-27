@@ -30,6 +30,12 @@ Search: blockDotOnion
 
 ***
 ### Distro Specific Fix:
+
+| Distro | Tor User ID |
+| --- | --- |
+| Arch  | tor |
+| Fedora | toranon  |
+
 * [Arch Linux](https://wiki.archlinux.org/index.php/tor#Transparent_Torification)
 ```bash
 sed -i 's/debian-tor/tor/' toriptables2.py
