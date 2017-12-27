@@ -34,7 +34,7 @@ Search: blockDotOnion
 | Distro | [Tor User ID](https://github.com/ruped24/toriptables2/blob/master/toriptables2.py#L31) |
 | --- | --- |
 | [Arch](https://wiki.archlinux.org/index.php/tor#Transparent_Torification)  | tor |
-| Fedora | toranon  |
+| [Fedora](http://blog.mclemon.io/fedora-getting-tor-and-selinux-to-play-nice) | toranon  |
 
 ```bash
 sed -i 's/debian-tor/tor/' toriptables2.py
