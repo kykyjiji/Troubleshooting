@@ -33,10 +33,9 @@ Search: blockDotOnion
 
 | Distro | Tor User ID |
 | --- | --- |
-| Arch  | tor |
+| [Arch](https://wiki.archlinux.org/index.php/tor#Transparent_Torification)  | tor |
 | Fedora | toranon  |
 
-* [Arch Linux](https://wiki.archlinux.org/index.php/tor#Transparent_Torification)
 ```bash
 sed -i 's/debian-tor/tor/' toriptables2.py
 ```
