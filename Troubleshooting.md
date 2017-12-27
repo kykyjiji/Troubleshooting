@@ -30,7 +30,7 @@ Search: blockDotOnion
 
 ***
 ### Distro Specific Fix:
-* [Arch Linux](https://github.com/ruped24/toriptables2/pull/5/files)
+* [Arch Linux](https://wiki.archlinux.org/index.php/tor#Transparent_Torification)
 ```bash
 sed -i 's/debian-tor/tor/' toriptables2.py
 ```
