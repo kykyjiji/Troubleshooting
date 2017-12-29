@@ -39,7 +39,7 @@ Search: blockDotOnion
 ```bash
 sed -i 's/debian-tor/tor/' toriptables2.py
 ```
-* [Parrot Security OS](https://www.inforge.net/xi/threads/parrot-security-os-3-1-1-anonsurf-fix-tor-by-vap0r.457379/)
+
 * [Notification Error](https://wiki.archlinux.org/index.php/Desktop_notifications)
 
 ***
