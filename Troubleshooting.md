@@ -40,7 +40,10 @@ Search: blockDotOnion
 sed -i 's/debian-tor/tor/' toriptables2.py
 ```
 
-[Notification Error](https://wiki.archlinux.org/index.php/Desktop_notifications)
+[Notification Error:](https://wiki.archlinux.org/index.php/Desktop_notifications)
+```bash
+sudo apt install mate-notification-daemon
+```
 
 ***
 ### Frequently Asked Questions:
